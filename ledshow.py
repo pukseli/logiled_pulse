@@ -13,4 +13,3 @@ while True:
         logi_led.logi_led_set_lighting_for_key_with_hid_code()
         time.sleep(0.1)
     time.sleep(210)
-    break

@@ -11,12 +11,21 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
+<<<<<<< HEAD
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file leaf-file-name="ledshow.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ledshow.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="252">
               <caret line="12" column="61" lean-forward="false" selection-start-line="12" selection-start-column="61" selection-end-line="12" selection-end-column="61" />
+=======
+    <leaf>
+      <file leaf-file-name="ledshow.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ledshow.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+>>>>>>> 9c8b9301d3c5f59587598202007a1f4b0c524dc3
               <folding>
                 <element signature="e#0#27#0" expanded="true" />
               </folding>
@@ -24,6 +33,7 @@
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="näppäimet.csv" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/näppäimet.csv">
           <provider selected="true" editor-type-id="text-editor">
@@ -40,15 +50,53 @@
             <state relative-caret-position="441">
               <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
               <folding />
+=======
+      <file leaf-file-name="logi_led.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Documents/logipy-1.0.1/logipy/logi_led.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="177" column="15" lean-forward="true" selection-start-line="177" selection-start-column="15" selection-end-line="177" selection-end-column="15" />
+              <folding>
+                <element signature="e#4180#4184#0" expanded="false" />
+                <element signature="e#4221#4629#0" expanded="false" />
+                <element signature="e#4779#4920#0" expanded="false" />
+                <element signature="e#4973#5236#0" expanded="false" />
+                <element signature="e#5280#5447#0" expanded="false" />
+                <element signature="e#5486#5628#0" expanded="false" />
+                <element signature="e#5712#6170#0" expanded="false" />
+                <element signature="e#6282#7020#0" expanded="false" />
+                <element signature="e#7132#7869#0" expanded="false" />
+                <element signature="e#7904#8043#0" expanded="false" />
+                <element signature="e#8096#8564#0" expanded="false" />
+                <element signature="e#8681#9319#0" expanded="false" />
+                <element signature="e#9703#10041#0" expanded="false" />
+                <element signature="e#10191#10831#0" expanded="false" />
+                <element signature="e#10947#11584#0" expanded="false" />
+                <element signature="e#11636#11945#0" expanded="false" />
+                <element signature="e#12000#12291#0" expanded="false" />
+                <element signature="e#12415#13315#0" expanded="false" />
+                <element signature="e#13540#14899#0" expanded="false" />
+                <element signature="e#14949#15159#0" expanded="false" />
+                <element signature="e#15190#15325#0" expanded="false" />
+              </folding>
+>>>>>>> 9c8b9301d3c5f59587598202007a1f4b0c524dc3
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="sxcieo.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sxcieo.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="315">
               <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+=======
+      <file leaf-file-name="sxcieo.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/sxcieo.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+>>>>>>> 9c8b9301d3c5f59587598202007a1f4b0c524dc3
               <folding />
             </state>
           </provider>
@@ -56,6 +104,7 @@
       </file>
     </leaf>
   </component>
+<<<<<<< HEAD
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -80,14 +129,28 @@
         <option value="$PROJECT_DIR$/näppäimet.csv" />
         <option value="$PROJECT_DIR$/ledshow.py" />
         <option value="$PROJECT_DIR$/button_class.py" />
+=======
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/sxcieo.py" />
+        <option value="$PROJECT_DIR$/ledshow.py" />
+        <option value="$PROJECT_DIR$/näppäimet_map.csv" />
+>>>>>>> 9c8b9301d3c5f59587598202007a1f4b0c524dc3
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
+<<<<<<< HEAD
     <option name="x" value="-9" />
     <option name="y" value="-9" />
     <option name="width" value="1938" />
     <option name="height" value="1050" />
+=======
+    <option name="x" value="809" />
+    <option name="width" value="1118" />
+    <option name="height" value="1047" />
+>>>>>>> 9c8b9301d3c5f59587598202007a1f4b0c524dc3
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -104,11 +167,15 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+<<<<<<< HEAD
       <pane id="Scope" />
+=======
+>>>>>>> 9c8b9301d3c5f59587598202007a1f4b0c524dc3
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
+<<<<<<< HEAD
               <option name="myItemId" value="logiled_pulse" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
@@ -128,17 +195,33 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="logiled_pulse" />
+=======
+              <option name="myItemId" value="logled" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="logled" />
+>>>>>>> 9c8b9301d3c5f59587598202007a1f4b0c524dc3
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
+<<<<<<< HEAD
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="last_opened_file_path" value="D:/logipy-1.0.1/logipy-1.0.1" />
+=======
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Documents/logipy-1.0.1" />
+>>>>>>> 9c8b9301d3c5f59587598202007a1f4b0c524dc3
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -152,7 +235,11 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Python.ledshow">
+=======
+  <component name="RunManager" selected="Python.sxcieo">
+>>>>>>> 9c8b9301d3c5f59587598202007a1f4b0c524dc3
     <configuration default="false" name="ledshow" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -259,17 +346,25 @@
     </list>
     <recent_temporary>
       <list size="2">
+<<<<<<< HEAD
         <item index="0" class="java.lang.String" itemvalue="Python.ledshow" />
         <item index="1" class="java.lang.String" itemvalue="Python.sxcieo" />
+=======
+        <item index="0" class="java.lang.String" itemvalue="Python.sxcieo" />
+        <item index="1" class="java.lang.String" itemvalue="Python.ledshow" />
+>>>>>>> 9c8b9301d3c5f59587598202007a1f4b0c524dc3
       </list>
     </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
+<<<<<<< HEAD
   <component name="SvnConfiguration">
     <configuration>D:\userdata\arvaja\Application Data\Subversion</configuration>
   </component>
+=======
+>>>>>>> 9c8b9301d3c5f59587598202007a1f4b0c524dc3
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="d0f997bd-7ce5-4892-a710-febd8173566b" name="Default" comment="" />
@@ -278,6 +373,7 @@
       <option name="presentableId" value="Default" />
       <updated>1497378451648</updated>
     </task>
+<<<<<<< HEAD
     <task id="LOCAL-00001" summary="jos toimis ois kiva">
       <created>1497510021647</created>
       <option name="number" value="00001" />
@@ -317,10 +413,58 @@
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+=======
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="809" y="0" width="1118" height="1047" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18058077" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33191034" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3991462" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33191034" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18058077" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3991462" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+>>>>>>> 9c8b9301d3c5f59587598202007a1f4b0c524dc3
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+<<<<<<< HEAD
   <component name="VcsManagerConfiguration">
     <MESSAGE value="jos toimis ois kiva" />
     <option name="LAST_COMMIT_MESSAGE" value="jos toimis ois kiva" />
@@ -335,20 +479,55 @@
         </line-breakpoint>
       </breakpoints>
       <option name="time" value="11" />
+=======
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="8" />
+>>>>>>> 9c8b9301d3c5f59587598202007a1f4b0c524dc3
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/ledshow.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="231">
           <caret line="12" column="61" lean-forward="false" selection-start-line="12" selection-start-column="61" selection-end-line="12" selection-end-column="61" />
           <folding>
             <element signature="e#0#27#0" expanded="true" />
+=======
+    <entry file="file://$USER_HOME$/Documents/logipy-1.0.1/logipy/logi_led.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="177" column="15" lean-forward="true" selection-start-line="177" selection-start-column="15" selection-end-line="177" selection-end-column="15" />
+          <folding>
+            <element signature="e#4180#4184#0" expanded="false" />
+            <element signature="e#4221#4629#0" expanded="false" />
+            <element signature="e#4779#4920#0" expanded="false" />
+            <element signature="e#4973#5236#0" expanded="false" />
+            <element signature="e#5280#5447#0" expanded="false" />
+            <element signature="e#5486#5628#0" expanded="false" />
+            <element signature="e#5712#6170#0" expanded="false" />
+            <element signature="e#6282#7020#0" expanded="false" />
+            <element signature="e#7132#7869#0" expanded="false" />
+            <element signature="e#7904#8043#0" expanded="false" />
+            <element signature="e#8096#8564#0" expanded="false" />
+            <element signature="e#8681#9319#0" expanded="false" />
+            <element signature="e#9703#10041#0" expanded="false" />
+            <element signature="e#10191#10831#0" expanded="false" />
+            <element signature="e#10947#11584#0" expanded="false" />
+            <element signature="e#11636#11945#0" expanded="false" />
+            <element signature="e#12000#12291#0" expanded="false" />
+            <element signature="e#12415#13315#0" expanded="false" />
+            <element signature="e#13540#14899#0" expanded="false" />
+            <element signature="e#14949#15159#0" expanded="false" />
+            <element signature="e#15190#15325#0" expanded="false" />
+>>>>>>> 9c8b9301d3c5f59587598202007a1f4b0c524dc3
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/näppäimet.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2184">
@@ -377,6 +556,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+=======
+    <entry file="file://$PROJECT_DIR$/ledshow.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+>>>>>>> 9c8b9301d3c5f59587598202007a1f4b0c524dc3
           <folding>
             <element signature="e#0#27#0" expanded="true" />
           </folding>
@@ -385,20 +570,30 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/näppäimet.csv">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="609">
           <caret line="29" column="5" lean-forward="false" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+=======
+        <state relative-caret-position="-315">
+          <caret line="27" column="4" lean-forward="true" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="4" />
+>>>>>>> 9c8b9301d3c5f59587598202007a1f4b0c524dc3
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/näppäimet_map.csv">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="1722">
+=======
+        <state relative-caret-position="620">
+>>>>>>> 9c8b9301d3c5f59587598202007a1f4b0c524dc3
           <caret line="82" column="8" lean-forward="true" selection-start-line="82" selection-start-column="8" selection-end-line="82" selection-end-column="8" />
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/ledshow.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="231">
@@ -412,11 +607,17 @@
     <entry file="file://$PROJECT_DIR$/sxcieo.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
+=======
+    <entry file="file://$PROJECT_DIR$/sxcieo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+>>>>>>> 9c8b9301d3c5f59587598202007a1f4b0c524dc3
           <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$USER_HOME$/Documents/logipy-1.0.1/logipy/logi_led.py" />
     <entry file="file://$PROJECT_DIR$/button_class.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -468,5 +669,7 @@
         </state>
       </provider>
     </entry>
+=======
+>>>>>>> 9c8b9301d3c5f59587598202007a1f4b0c524dc3
   </component>
 </project>

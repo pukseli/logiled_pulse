@@ -1,6 +1,7 @@
 from logipy import logi_led
 import time
 logi_led.logi_led_init()
+
 time.sleep(1)
 file = open("näppäimet.csv","r")
 b = file.readlines()
